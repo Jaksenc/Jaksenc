@@ -27,14 +27,8 @@ tools.
 - [Parameter Golf](https://github.com/openai/parameter-golf/pulls?q=author%3AJaksenc):
   compact language-model training experiments and benchmark submissions.
 
-## Selected Work
+## Selected Public Work
 
-- [AIR](https://github.com/Jaksenc/AIR) - local-first AI research operating
-  system for agents and evals.
-- [agent-reliability-bench-lite](https://github.com/Jaksenc/agent-reliability-bench-lite)
-  - lightweight benchmark harness for agent reliability experiments.
-- [WineApp](https://github.com/Jaksenc/WineApp) - TypeScript wine rating app
-  with Elo-based comparisons.
 - [folio](https://github.com/Jaksenc/folio) - portfolio site.
 
 ## How I Contribute
