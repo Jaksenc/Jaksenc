@@ -1,18 +1,21 @@
 # Jaksen Charles
 
-Product-minded software engineer in NYC building AI/devtools, evaluation systems,
-and developer experiences that make complex workflows easier to understand.
+Designer becoming a design engineer in NYC, building product interfaces,
+developer tools, and AI/eval workflows with a strong eye for interaction
+quality.
 
-I like work where design sense and systems thinking meet: local-first tools,
-browser automation, agent reliability, data systems, and product interfaces with
-clear feedback loops.
+I started from product, visual, and interaction design. Now I am deepening the
+engineering side in public: learning real codebases, shipping small reviewable
+changes, writing docs and tests, and turning ambiguous workflows into clearer
+tools.
 
 ## Current Focus
 
-- AI agent observability, evals, and reliability workflows
-- Developer experience for complex systems
-- Frontend/product engineering with strong UX and interaction standards
-- Practical data and streaming systems work
+- Design engineering: UI systems, interaction quality, and frontend
+  implementation
+- Engineering fundamentals through real open source contributions
+- AI/devtools, agent reliability, evals, and observability workflows
+- Developer experience for complex tools and workflows
 
 ## Recent Open Source
 
@@ -36,9 +39,9 @@ clear feedback loops.
 
 ## How I Contribute
 
+- A designer's eye for clarity, adoption, and interaction details
 - Small, reviewable pull requests with clear verification notes
 - Documentation and tests that reduce maintainer review burden
-- UX and workflow fixes that make tools easier to adopt
 - Follow-up work after maintainer feedback instead of one-off drive-bys
 
 [Website](https://jaksenc.com/) · [GitHub](https://github.com/Jaksenc)
