@@ -53,7 +53,6 @@ tools.
 - A designer's eye for clarity, adoption, and interaction details
 - Small, reviewable pull requests with clear scope and validation notes
 - Documentation and tests that reduce maintainer review burden
-- Follow-through on CI, CLA, commit-signing, and review feedback
 - Careful issue selection: maintainer signal, narrow acceptance criteria, and
   patches that fit the local codebase
 
