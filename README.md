@@ -35,8 +35,6 @@ tools.
 
 ## Selected Projects
 
-- [AgentReliabilityBench Lite](https://github.com/Jaksenc/agent-reliability-bench-lite):
-  a small manual benchmark for epistemic reliability in AI assistants.
 - [folio](https://github.com/Jaksenc/folio): portfolio site.
 - [Public pull requests](https://github.com/pulls?q=is%3Apr+author%3AJaksenc):
   recent open-source contributions and review threads.
