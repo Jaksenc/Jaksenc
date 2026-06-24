@@ -10,6 +10,7 @@ I started in product, visual, and interaction design. Now I am building engineer
 - [Anthropic Connect Rust #165](https://github.com/anthropics/connect-rust/pull/165): added configurable max connection age support to `BoundServer`.
 - [Anthropic Connect Rust #191](https://github.com/anthropics/connect-rust/pull/191): documented raw Hyper transport configuration.
 - [Vercel NCC #1319](https://github.com/vercel/ncc/pull/1319): preserves TypeScript imports for ESM output when packages expose only an `import` export condition.
+- [OpenAI Node #1874](https://github.com/openai/openai-node/pull/1874): documented file content response handling and aligned the exported type with the SDK surface.
 - [Storybook #34766](https://github.com/storybookjs/storybook/pull/34766): added an accessible label to the Object JSON control.
 - [StyleX #1665](https://github.com/facebook/stylex/pull/1665): fixed `stylex-sort-keys` autofix ordering.
 
