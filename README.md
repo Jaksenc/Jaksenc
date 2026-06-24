@@ -6,7 +6,6 @@ I started in product, visual, and interaction design. Now I am building engineer
 
 ## Start Here
 
-- [folio](https://github.com/Jaksenc/folio): rebuilt my public site, then tightened motion, accessibility, interaction details, and the home-page mini-game.
 - [Anthropic Connect Rust #165](https://github.com/anthropics/connect-rust/pull/165): added configurable max connection age support to `BoundServer`.
 - [Anthropic Connect Rust #191](https://github.com/anthropics/connect-rust/pull/191): documented raw Hyper transport configuration.
 - [Vercel NCC #1319](https://github.com/vercel/ncc/pull/1319): preserves TypeScript imports for ESM output when packages expose only an `import` export condition.
